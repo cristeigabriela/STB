@@ -1,6 +1,6 @@
 /**
  * @file stb.hh
- * @author Cristei Gabriel-Marian (cristei.g772@gmail.com)
+ * @author Gabriela Cristei (cristei.g772@gmail.com)
  * @brief Compile-time String To Bytes (STB)
  * @version 1.0
  * @date 2023-03-23
